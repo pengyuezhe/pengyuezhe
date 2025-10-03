@@ -1,16 +1,14 @@
-## Hi there 👋
+# 你好👋我是PYZfang
 
-<!--
-**pengyuezhe/pengyuezhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 自我介绍:
 
-Here are some ideas to get you started:
+我是福州大学的一名计算机本科生，我喜欢做模型和
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 学习方向：
+
+对网络工程，云计算等方向感兴趣
+
+### 未来展望：
+
+考公，自从计算机行业大热之后，报考相关专业的人数激增，但是从计算机行业白皮书的数据来看，计算机行业的从业人数并未增加多少，这说明真正能在计算机行业落脚的人少之又少。凭借应届生和专业优势，考狱警等方向的公务员。
+
